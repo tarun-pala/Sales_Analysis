@@ -1,10 +1,4 @@
 
-
-
-# Sales Analysis Dashboard
-
-### Dashboard Link :https://github.com/tanweer96/Sales_Analysis/blob/main/Sales%20Analysis%20Dashboard.pbix
-
 ## 🛠 Problem Statement:
 ### 📌 Business Challenge:
 A company selling various products across multiple countries wants to analyze its sales performance, profitability, and discount impact to make data-driven business decisions. The management lacks a consolidated view of key metrics such as total sales, profit, units sold, and discount trends, which are crucial for identifying growth opportunities and optimizing pricing strategies.
